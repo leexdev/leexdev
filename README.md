@@ -48,4 +48,6 @@
         </td>
     </tr>
 </table>
-<p align="center"><img src="https://media.giphy.com/media/kyLYXonQYYfwYDIeZl/giphy.gif " alt=" " style="width: 100% "></p>
+<p align="center">
+    <img src="https://media.giphy.com/media/kyLYXonQYYfwYDIeZl/giphy.gif " alt=" " width="100%">
+</p>
