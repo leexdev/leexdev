@@ -51,4 +51,4 @@
   </tr>
 </table>
 
-<img src="https://media.giphy.com/media/kyLYXonQYYfwYDIeZl/giphy.gif" alt="" style="width=100%">
+<img src="https://media.giphy.com/media/kyLYXonQYYfwYDIeZl/giphy.gif" alt="" style="width: 100%">
