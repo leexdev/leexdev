@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lee</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png" /></p>
 <h3 align="center">A passionate developer from Vietnam </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lepro83" alt="lepro83" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=leexdev" alt="leexdev" /></p>
 
 - ✍ I'm a student of: [University of Transport and Communications campus in HCMC](https://utc2.edu.vn) (UTC2). - 🌱 I’m currently learning **Web Developer.**
 <br>
